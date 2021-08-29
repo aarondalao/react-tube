@@ -28,7 +28,7 @@ This project is design to help developers understand communication between React
 
 ![wireframe](react-tube.png)
 
-See Projects tab for kanban guideline
+See Projects tab for kanban guideline https://github.com/mikebernal/react-tube/projects/1
 
 Good luck! :)
 
