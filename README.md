@@ -2,10 +2,11 @@
 
 ## Requirements
 
-1. npm from node or nvm.
-2. Google account to create and enable YouTube API Data V3: https://blog.hubspot.com/website/how-to-get-youtube-api-key
-3. YouTube API search docs: https://developers.google.com/youtube/v3/docs/search
-4. axios: https://www.npmjs.com/package/axios
+1. Finish React official tutorial first at https://reactjs.org/tutorial/tutorial.html
+2. npm from node or nvm.
+3. Google account to create and enable YouTube API Data V3: https://blog.hubspot.com/website/how-to-get-youtube-api-key
+4. YouTube API search docs: https://developers.google.com/youtube/v3/docs/search
+5. axios: https://www.npmjs.com/package/axios
 
 I suggest using nvm for node version manager
 
